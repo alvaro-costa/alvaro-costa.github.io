@@ -5,10 +5,19 @@ Página de Alvaro Costa.
 # 1. Primeiro Teste: Adicionando Link na página
 ## Página Github with Jekyll Theme
 
-Teste de link na edição do arquivo README.md no Github.
-- Usando o que parece ter sido usado:
-click [Google Search Engine](https://www.google.com/) to visit Google.
-Para fazer isso, coloque o texto que deseja como link entre colchetes e, após o colchetes, abra o parentese e coloque o link acessado. Feche o parentese.
+Teste de como adicionar um link na edição do arquivo README.md no Github.
+- Fazendo o que parece ter sido feito no arquivo "README.md":
+
+Esse é um exemplo: click [Google Search Engine](https://www.google.com/) to visit Google.
+
+Para criar um link no texto siga os passos:
+
+Coloque o texto que deseja marcar como link entre colchetes;
+
+Após o colchetes, abra o parentese e coloque o link da página que deseja
+
+Feche o parentese.
+
 **Por exemplo:**
 
 ```markdown
