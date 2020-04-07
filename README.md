@@ -1,29 +1,27 @@
-## Welcome to GitHub Pages - Using Jekyll Themes
+## Welcome to My GitHub Page
+_Take credit for Jekyll Theme._
 
 Página de Alvaro Costa.
 
 # 1. Primeiro Teste: Adicionando Link na página
 
-## Página Github with Jekyll Theme
-
-
 Será executado um teste de como adicionar um link na página pessoal no Github. Essa edição é feita no arquivo README.md do repositório pessoal "username.github.io".
 
-Esse é um exemplo do resultado do teste: click [Google Search Engine](https://www.google.com/) to visit Google.
+Esse é um exemplo do resultado do teste: "click [Google Search Engine](https://www.google.com/) to visit Google."
 
-**Para criar um link no texto siga os passos:**
+**Para transformar um texto em link, siga os seguintes passos:**
 
- - Coloque o texto que deseja marcar como link entre colchetes;
+ 1. Escreva, entre colchetes \[ ], o texto que deseja marcar como link;
 
- - Após o colchetes, abra o parentese e coloque o link da página que deseja;
+ 2. Após o colchetes, coloque entre parênteses \( ) o link desejado.
 
- - Feche o parentese.
 
 **Por exemplo:**
 
 ```markdown
  [Click here](https://yourLinkHere.com)
 ```
+# X. This was the base page
 
 You can use the [editor on GitHub](https://github.com/alvaro-costa/alvaro-costa.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
