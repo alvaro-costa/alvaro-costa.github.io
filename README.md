@@ -21,6 +21,23 @@ Esse é um exemplo do resultado do teste: "click [Google Search Engine](https://
 ```markdown
  [Click here](https://yourLinkHere.com)
 ```
+
+# 2. Segundo Teste: Uso dos Headers
+
+Uma frase será escrita usando os 3 marcadores headers.
+
+```
+1. # para o Header 1
+2. ## para o Header 2
+3. ### para o Header 3
+```
+
+- # 1. TESTE DE HEADER1
+- ## 2. TESTE DE HEADER2
+- ### 3. TESTE DE HEADER3
+
+
+
 # X. This was the base page
 
 You can use the [editor on GitHub](https://github.com/alvaro-costa/alvaro-costa.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
