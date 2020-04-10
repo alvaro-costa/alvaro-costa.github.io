@@ -36,6 +36,18 @@ Uma frase será escrita usando os 3 marcadores headers.
 - ## 2. TESTE DE HEADER2
 - ### 3. TESTE DE HEADER3
 
+# 3. Terceiro Teste: Buleted and Numbered List
+
+- This is an exemple of an buleted list;
+- This is an exemple of an buleted list;
+- This is an exemple of an buleted list;
+
+1. This is an exemple of an numbered list;
+2. This is an exemple of an numbered list;
+3. This is an exemple of an numbered list;
+
+Ok. This was easy. If you don't get it. Contact me.
+
 I want to know how to insert a new line here. :)
 Please, contact me.
 
