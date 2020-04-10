@@ -1,13 +1,13 @@
 ## Welcome to My GitHub Page
 _Take credit for Jekyll Theme._
 
-Progress
-- [ ] Learn https://guides.github.com/features/mastering-markdown/
-- [ ] Complete my own tutorial
-- [ ] Mastering Github Website
-- [ ] Get social chats
-- [ ] Learn Python
-- [ ] Learn SQL
+Progress...
+- [ ]  Learn [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [ ]  Complete my own tutorial on my personal page.
+- [ ]  Mastering Github Website, explore it.
+- [ ]  Get social chats. :)
+- [ ]  Learn Python
+- [ ]  Learn SQL
 
 Ok. This will get some time.
 
