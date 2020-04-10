@@ -36,7 +36,7 @@ Uma frase será escrita usando os 3 marcadores headers.
 - ## 2. TESTE DE HEADER2
 - ### 3. TESTE DE HEADER3
 
-# 3. Terceiro Teste: Buleted and Numbered List
+# 3. Terceiro Teste: Buleted (Unordered) and Numbered (Ordered) List
 
 - This is an exemple of an buleted list;
 - This is an exemple of an buleted list;
@@ -60,6 +60,12 @@ Please, contact me.
 # 5. Quinto Teste: Adicionando uma imagem
 
 ![GitHub Logo](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/GitHub-brave-hed-796x418.jpg)
+
+# 6. Sexto Teste: Uso de Task List
+
+- [ ] Task 1
+- [ ] Task 2
+- [x] Task 3
 
 # X. This was the base page
 
