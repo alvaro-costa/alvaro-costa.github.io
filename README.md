@@ -57,6 +57,10 @@ _ITALIC_
 I want to know how to insert a new line here. :)
 Please, contact me.
 
+# 5. Quinto Teste: Adicionando uma imagem
+
+![GitHub Logo](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/GitHub-brave-hed-796x418.jpg)
+
 # X. This was the base page
 
 You can use the [editor on GitHub](https://github.com/alvaro-costa/alvaro-costa.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
