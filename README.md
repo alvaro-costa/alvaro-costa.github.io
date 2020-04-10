@@ -48,6 +48,12 @@ Uma frase será escrita usando os 3 marcadores headers.
 
 Ok. This was easy. If you don't get it. Contact me.
 
+# 4. Quarto Teste: Bold, italic and Code text.
+
+**BOLD**
+_ITALIC_
+'code'
+
 I want to know how to insert a new line here. :)
 Please, contact me.
 
